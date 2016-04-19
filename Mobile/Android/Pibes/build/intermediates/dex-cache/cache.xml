@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/radsen/Development/servicestracker/Pibes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="070bcb055c5375dd7367fa04ef2057e5a6f100b4">
+        <dex dex="/Users/radsen/Development/servicestracker/Pibes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3f08981fa5dc0687c9b0fce1f411c0904413cd51/classes.dex" />
+    </item>
+
+</items>
